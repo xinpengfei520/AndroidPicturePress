@@ -3,8 +3,11 @@
   <component name="ProjectModuleManager">
     <modules>
       <module fileurl="file://$PROJECT_DIR$/AndroidPicturePress.iml" filepath="$PROJECT_DIR$/AndroidPicturePress.iml" />
+      <module fileurl="file://F:\AndroidStudioProjects\AndroidPicturePress\AndroidPicturePress.iml" filepath="F:\AndroidStudioProjects\AndroidPicturePress\AndroidPicturePress.iml" />
       <module fileurl="file://$PROJECT_DIR$/app/app.iml" filepath="$PROJECT_DIR$/app/app.iml" />
-      <module fileurl="file://$PROJECT_DIR$/webp-android-backport-library/webp-android-backport-library.iml" filepath="$PROJECT_DIR$/webp-android-backport-library/webp-android-backport-library.iml" />
+      <module fileurl="file://F:\AndroidStudioProjects\AndroidPicturePress\app\app.iml" filepath="F:\AndroidStudioProjects\AndroidPicturePress\app\app.iml" />
+      <module fileurl="file://F:\AndroidStudioProjects\AndroidPicturePress\webp-android-backport-library\webp-android-backport-library.iml" filepath="F:\AndroidStudioProjects\AndroidPicturePress\webp-android-backport-library\webp-android-backport-library.iml" />
+      <module fileurl="file://$PROJECT_DIR$/webp-library/webp-android-backport-library.iml" filepath="$PROJECT_DIR$/webp-library/webp-android-backport-library.iml" />
     </modules>
   </component>
 </project>

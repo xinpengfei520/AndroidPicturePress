@@ -1,1 +1,1 @@
-include ':app', ':webp-android-backport-library'
+include ':app', ':webp-library'
