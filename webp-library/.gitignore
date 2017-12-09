@@ -3,3 +3,7 @@ gen/*
 obj/*
 libs/*
 local.properties
+/build
+/.idea
+/gradle
+/.setting
